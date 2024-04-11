@@ -14,7 +14,7 @@ edition = "2021"
 name = "bitcoincore-rpc-sotatek"
 version = "0.1.3"
 authors = [
-    "Minh Nguyen <minh.nguyentuan.kn@gmail.com>",
+    "Minh Nguyen <minh.nguyen11@sotatek.com>",
 ]
 description = "A private library for Avabot project"
 license = "MIT"
