@@ -1,0 +1,10 @@
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/libhex_conservative-ecadda13d1cc2ad4.rmeta: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/buf_encoder.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/display.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/error.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/iter.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/parse.rs
+
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/hex_conservative-ecadda13d1cc2ad4.d: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/buf_encoder.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/display.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/error.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/iter.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/parse.rs
+
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/lib.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/buf_encoder.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/display.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/error.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/iter.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-conservative-0.1.1/src/parse.rs:

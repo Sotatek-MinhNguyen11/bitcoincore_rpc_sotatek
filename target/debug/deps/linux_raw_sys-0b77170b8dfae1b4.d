@@ -1,0 +1,9 @@
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/liblinux_raw_sys-0b77170b8dfae1b4.rmeta: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/linux_raw_sys-0b77170b8dfae1b4.d: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs:

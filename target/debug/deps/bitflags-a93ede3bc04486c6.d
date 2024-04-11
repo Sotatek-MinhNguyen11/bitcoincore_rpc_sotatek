@@ -1,0 +1,11 @@
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/libbitflags-a93ede3bc04486c6.rmeta: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/iter.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/parser.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/traits.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/public.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/internal.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/external.rs
+
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/bitflags-a93ede3bc04486c6.d: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/iter.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/parser.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/traits.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/public.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/internal.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/external.rs
+
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/lib.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/iter.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/parser.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/traits.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/public.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/internal.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.1/src/external.rs:

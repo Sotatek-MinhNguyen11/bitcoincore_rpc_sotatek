@@ -1,0 +1,12 @@
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/libtempfile-ca241e554b2016e7.rmeta: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/tempfile-ca241e554b2016e7.d: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs:

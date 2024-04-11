@@ -1,0 +1,11 @@
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/libgetrandom-3604fe5f63bd5b54.rmeta: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error_impls.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util_libc.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/use_file.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/linux_android.rs
+
+/home/tuan/Blockchain/Sotatek_Project/minh_test_all/lib_sotatek/bitcoincore_rpc_sotatek/target/debug/deps/getrandom-3604fe5f63bd5b54.d: /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/lib.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error_impls.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util_libc.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/use_file.rs /home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/linux_android.rs
+
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/lib.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error_impls.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util_libc.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/use_file.rs:
+/home/tuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/linux_android.rs:
