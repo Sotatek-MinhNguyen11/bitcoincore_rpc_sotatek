@@ -235,7 +235,7 @@ pub trait RpcApi: Sized {
     }
 
     fn get_network_info(&self) -> Result<json::GetNetworkInfoResult> {
-        self.call("getnetworkinfo", &[])
+        self.call("getinfo", &[])
     }
 
     fn get_index_info(&self) -> Result<json::GetIndexInfoResult> {
@@ -247,7 +247,7 @@ pub trait RpcApi: Sized {
         struct Response {
             pub version: usize,
         }
-        let res: Response = self.call("getnetworkinfo", &[])?;
+        let res: Response = self.call("getinfo", &[])?;
         Ok(res.version)
     }
 
